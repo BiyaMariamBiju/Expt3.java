@@ -47,3 +47,26 @@ public class Details
       
     }
 }
+/*
+Enter the no Employees
+2
+Enter Name of the employee
+manoj
+Enter the employee Id
+4321
+Enter the employee phn no
+265435
+Name of the Employee: manoj
+Employee Id: 4321
+Employee phn no: 265435
+
+Enter Name of the employee
+sooraj
+Enter the employee Id
+4328
+Enter the employee phn no
+2776543
+Name of the Employee: sooraj
+Employee Id: 4328
+Employee phn no: 2776543
+*/
