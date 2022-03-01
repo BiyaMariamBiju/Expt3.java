@@ -35,3 +35,11 @@ public class Factorial
         obj1.sum(q);
     }
 }
+/*
+Enter the number whose factorial has to be calculated
+5
+Enter the number whose sum of digits has to be calculated
+55
+Factorial is:120
+*/
+The sum of digits of given num is:10
