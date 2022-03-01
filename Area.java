@@ -35,3 +35,16 @@ public class Area
 
     
 }
+/*
+Enter the radius of the circle
+4
+Enter the length and breadth of the rectangle
+4
+2
+Enter the height and base of the rectangle
+5
+3
+Area of circle=50.24
+Area of Rectangle=8
+Area of Triangle=7.5
+*/
