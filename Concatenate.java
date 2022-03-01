@@ -31,3 +31,13 @@ public class Concatenate
         obj.Concat(q,s);
     }
 }
+/*
+Enter any 2 Numbers
+5
+2
+Enter any 2 Strings
+Hello
+World
+Concatenated Numbers is 52
+Concatenated String is  HelloWorld
+*/
