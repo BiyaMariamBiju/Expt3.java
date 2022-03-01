@@ -24,3 +24,12 @@ public class Perimeter
     }
  
 }
+/*
+Enter the radius of the circle
+2
+Enter the length and breadth of the rectangle
+4
+2
+Perimeter of the circle is:12.56
+Perimeter of the rectangle is:12
+*/
