@@ -58,3 +58,10 @@ public class RevFreq
         
      
 }
+/*
+Enter the string
+HelloWorld
+Enter the character(in lower case) whose freq has to be found: l
+The character is present and the frequency of the character is:3
+Reversed String is: DLROWOLLEH
+*/
